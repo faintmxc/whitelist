@@ -1,10 +1,44 @@
-{"data":["0x0444C019C90402033fF8246BCeA440CeB9468C88",
-"0xA1AddEd780Ae434a0E1914073Ca3c487e1cc16D4",
-"0x817D72353A6721a0D97da0B39AbC2eFA52C6D688",
-"0xea1705996645F718A575Ca7BAFEe22e27E2fAF52",
-"0x6072F436Ae9ba361fcc7D5944187F4D4D3f8A73B",
-"0x0444C019C90402033fF8246BCeA440CeB9468C88",
-"0x1ACB9E6C623B069fA99cEf06C11B3554d092E9fD",
-"0x67B9c45A3fBFdED0ed25BA75E2615e69b297711f",
-"0x09ab3c88a4440255f8C998040c6fdadA3c483751",
-"0xf814582eF4EDac9b32B59D89e95C429AD25d105b"]}
+{"data": 
+ [
+        {
+            "address": "0xA286a6B0B244Bc40494F6cF1E55b4E143F35de15",
+            "amount": "100000000000000000000"
+        },
+        {
+            "address": "0xA1AddEd780Ae434a0E1914073Ca3c487e1cc16D4",
+            "amount": "100000000000000000000"
+        },
+        {
+            "address": "0x817D72353A6721a0D97da0B39AbC2eFA52C6D688",
+            "amount": "100000000000000000000"
+        },
+        {
+            "address": "0xea1705996645F718A575Ca7BAFEe22e27E2fAF52",
+            "amount": "100000000000000000000"
+        },
+        {
+            "address": "0x6072F436Ae9ba361fcc7D5944187F4D4D3f8A73B",
+            "amount": "100000000000000000000"
+        },
+        {
+            "address": "0x0444C019C90402033fF8246BCeA440CeB9468C88",
+            "amount": "100000000000000000000"
+        },
+        {
+            "address": "0x1ACB9E6C623B069fA99cEf06C11B3554d092E9fD",
+            "amount": "100000000000000000000"
+        },
+        {
+            "address": "0x67B9c45A3fBFdED0ed25BA75E2615e69b297711f",
+            "amount": "100000000000000000000"
+        },
+        {
+            "address": "0x09ab3c88a4440255f8C998040c6fdadA3c483751",
+            "amount": "100000000000000000000"
+        },
+        {
+            "address": "0xf814582eF4EDac9b32B59D89e95C429AD25d105b",
+            "amount": "100000000000000000000"
+        }
+]
+}
